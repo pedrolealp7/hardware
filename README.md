@@ -2,7 +2,7 @@
 
   <img src="img p github/Pag1.png">
   <img src="img p github/Pag2.png">
-  <img src="img p github/Pag3.png">
+  <img src="img p github/pag3.png">
   
 <br>
 
